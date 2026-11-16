@@ -12,20 +12,20 @@
 - 의료진: 대표원장 고승진(한의사), 진료원장 김동환(한의사)
 
 ## 진료과목
-- [통증·추나](https://seungjin0226-design.github.io/homepage/care-pain.html): 목·허리·어깨·무릎 통증, 거북목, 골반 불균형
-- [교통사고 치료](https://seungjin0226-design.github.io/homepage/care-accident.html): 자동차보험 적용, 사고 후 통증과 후유증 관리
-- [다이어트](https://seungjin0226-design.github.io/homepage/care-diet.html): 체질과 생활습관을 고려한 체중 관리
-- [피부 클리닉](https://seungjin0226-design.github.io/homepage/care-skin.html): 온다 리프팅, 아포지플러스 제모(준비 중)
-- [체질·보약](https://seungjin0226-design.github.io/homepage/care-constitution.html): 만성 피로, 소화 불량, 수험생·성장기 건강 관리
-- [여성·산후 관리](https://seungjin0226-design.github.io/homepage/care-women.html): 생리통, 갱년기, 산후 회복
-- [소아 성장 클리닉](https://seungjin0226-design.github.io/homepage/care-growth.html): 초음파 뼈 나이 검사, 성장추나·성장침·성장한약
+- [통증·추나](https://janggok365brm.com/care-pain.html): 목·허리·어깨·무릎 통증, 거북목, 골반 불균형
+- [교통사고 치료](https://janggok365brm.com/care-accident.html): 자동차보험 적용, 사고 후 통증과 후유증 관리
+- [다이어트](https://janggok365brm.com/care-diet.html): 체질과 생활습관을 고려한 체중 관리
+- [피부 클리닉](https://janggok365brm.com/care-skin.html): 온다 리프팅, 아포지플러스 제모(준비 중)
+- [체질·보약](https://janggok365brm.com/care-constitution.html): 만성 피로, 소화 불량, 수험생·성장기 건강 관리
+- [여성·산후 관리](https://janggok365brm.com/care-women.html): 생리통, 갱년기, 산후 회복
+- [소아 성장 클리닉](https://janggok365brm.com/care-growth.html): 초음파 뼈 나이 검사, 성장추나·성장침·성장한약
 
 ## 주요 페이지
-- [한의원 소개](https://seungjin0226-design.github.io/homepage/about.html)
-- [의료진](https://seungjin0226-design.github.io/homepage/doctor.html)
-- [진료안내·오시는 길](https://seungjin0226-design.github.io/homepage/location.html)
-- [자주 묻는 질문](https://seungjin0226-design.github.io/homepage/faq.html)
-- [공지사항](https://seungjin0226-design.github.io/homepage/notice.html)
+- [한의원 소개](https://janggok365brm.com/about.html)
+- [의료진](https://janggok365brm.com/doctor.html)
+- [진료안내·오시는 길](https://janggok365brm.com/location.html)
+- [자주 묻는 질문](https://janggok365brm.com/faq.html)
+- [공지사항](https://janggok365brm.com/notice.html)
 
 ## 자주 묻는 질문
 - 진료시간이 어떻게 되나요? 평일은 오전 9시부터 오후 8시까지, 토요일·일요일·공휴일은 오전 9시부터 오후 3시까지 진료합니다. 평일 점심시간은 오후 1시부터 2시까지이며, 주말·공휴일은 점심시간 없이 진료합니다. 접수 마감은 진료 종료 30분 전입니다.
