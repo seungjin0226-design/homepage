@@ -362,6 +362,14 @@ body.pop-open{overflow:hidden}
 .pop-foot button+button{border-left:1px solid var(--line);color:var(--text);font-weight:700}
 .pop-foot button:hover{background:var(--bg)}
 
+
+/* 온다 이미지 추가 */
+.cw{margin:0 auto 40px;max-width:520px;background:#fff;border:1px solid var(--line);border-radius:20px;padding:24px;text-align:center}
+.cw img{width:100%;height:auto}
+.cw figcaption{font-size:13px;color:var(--sub);margin-top:8px}
+.hp-layer{width:100%;height:auto;border-radius:14px;margin-top:14px;position:relative}
+.onda-banner{width:100%;height:auto;border-radius:22px;margin-bottom:32px;display:block}
+
 /* 하단 */
 footer{background:var(--dark);color:#DCD2C4;font-size:14px}
 footer .wrap{padding-top:56px;padding-bottom:56px;display:flex;flex-direction:column;gap:14px}
